@@ -1,0 +1,2 @@
+# spherebox
+OpenFOAM solver
